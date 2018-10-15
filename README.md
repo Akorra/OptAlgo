@@ -5,10 +5,10 @@
 # Part 1 of the Project
 ## Objective
 Study how we should act on a robot so that it transfers from a given position to another desired position, in three separate variations of this problem:
-  - `Section 2` How should we act on the robot - Using simple control signals - so that the robot also passes, as close as possible to certain intermediate `points`?
-  - `Section 3` How should we act on the robot - Using simple control signals - so that the robot also passes, as close as possible, to certain intermediate `regions`?
-  - `Section 4` How should we act on the robot so that it also passes exactly on as many intermideate points as possible?
+  - `Section A` How should we act on the robot - Using simple control signals - so that the robot also passes, as close as possible to certain intermediate `points`?
+  - `Section B` How should we act on the robot - Using simple control signals - so that the robot also passes, as close as possible, to certain intermediate `regions`?
+  - `Section C` How should we act on the robot so that it also passes exactly on as many intermideate points as possible?
   
-## `Section 2` Approximate intermidiate points and simple control signals
-## `Section 3` Approximate intermidiate regions and simple control signals
-## `Section 4` Exact intermidiate points
+## `Section A` Approximate intermidiate points and simple control signals
+## `Section B` Approximate intermidiate regions and simple control signals
+## `Section C` Exact intermidiate points
