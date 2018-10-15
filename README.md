@@ -10,5 +10,5 @@ Study how we should act on a robot so that it transfers from a given position to
   - `Section 4` How should we act on the robot so that it also passes exactly on as many intermideate points as possible?
   
 ## `Section 2` Approximate intermidiate points and simple control signals
-## `Section 3` Approximate intermidiate points and simple control signals
-## `Section 4` Approximate intermidiate points and simple control signals
+## `Section 3` Approximate intermidiate regions and simple control signals
+## `Section 4` Exact intermidiate points
